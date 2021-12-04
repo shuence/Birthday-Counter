@@ -9,7 +9,7 @@ canvas {
   left: 0;
 }
 body {
-  background: #ffffff;
+  background: #1f1f1f;
   overflow: hidden;
 }
 .container {
@@ -61,7 +61,7 @@ li span {
 }
 .giftbox:after {
   position: absolute;
-  color: #fff;
+  color: rgb(27, 26, 26);
   width: 100%;
   content: "Click Me!";
   left: 0;
