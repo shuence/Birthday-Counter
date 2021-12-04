@@ -180,3 +180,7 @@ li span {
       opacity: 0;
  }
 }
+
+footer{
+  display: none;
+}
